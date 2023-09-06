@@ -1,0 +1,9 @@
+artifacts
+logs
+.vscode
+__pycache__
+*.log
+checkpoints
+*.npy
+*.npz
+*.pth
